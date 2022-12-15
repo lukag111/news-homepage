@@ -59,6 +59,9 @@ nav{
 .photo img{
     width: 100%;
 }
+.img-mob{
+    display: none;
+}
 .heading{
     font-weight: 900;
     font-size: 29px;
