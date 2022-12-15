@@ -24,6 +24,7 @@ close.addEventListener("click", function (){
         menu.style.display = 'none';
         navItems.style.display = 'none'
         document.body.style.backgroundColor = "white";
+        photo.style.filter = "brightness(100%)";
     }
 });
 
